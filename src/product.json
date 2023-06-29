@@ -1,0 +1,92 @@
+[
+  {
+    "title": "ADIDAS ORIGINALS OZWEEGO ",
+    "description": "ZAPATILLAS",
+    "price": 78.999,
+    "thumbnail": "ADIDAS-OZWEEGO.png",
+    "code": "gdfbtr",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "DUNK LOW RETRO",
+    "description": "ZAPATILLAS",
+    "price": 72.999,
+    "thumbnail": "Dunk-Low-Retro.png",
+    "code": "qwerty",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "JORDAN AIR 1 MID TRUE BLUE ",
+    "description": "ZAPATILLAS",
+    "price": 72.999,
+    "thumbnail": "JORDAN-AIR-1.png",
+    "code": "qweasg",
+    "stock": 25,
+    "id": 3
+  },
+  {
+    "title": "DUNK LOW ",
+    "description": "ZAPATILLAS",
+    "price": 66.999,
+    "thumbnail": "Dunk-Low.png",
+    "code": "asdasd",
+    "stock": 10,
+    "id": 4
+  },
+  {
+    "title": "JORDAN AIR 5 RETRO ",
+    "description": "ZAPATILLAS",
+    "price": 114.999,
+    "thumbnail": "JORDAN-AIR-5.png",
+    "code": "csasdw",
+    "stock": 30,
+    "id": 5
+  },
+  {
+    "title": "ADIDAS ORIGINALS ADIFOM ",
+    "description": "ZAPATILLAS",
+    "price": 67.999,
+    "thumbnail": "ADIFOM.png",
+    "code": "rdapif",
+    "stock": 30,
+    "id": 6
+  },
+  {
+    "title": "NIKE AIR MAX 97 SE",
+    "description": "ZAPATILLAS",
+    "price": 99.999,
+    "thumbnail": "AIR-MAX-97.png",
+    "code": "hlfkes",
+    "stock": 40,
+    "id": 7
+  },
+  {
+    "title": "ADIDAS ORIGINALS FORUM LOW",
+    "description": "ZAPATILLAS",
+    "price": 62.999,
+    "thumbnail": "FORUM-LOW.png",
+    "code": "sadefd",
+    "stock": 20,
+    "id": 8
+  },
+  {
+    "title": "NIKE AIR FORCE 1 REACT",
+    "description": "ZAPATILLAS",
+    "price": 82.999 ,
+    "thumbnail": "AIR-FORCE-1-REACT.png",
+    "code": "bfdert",
+    "stock": 30,
+    "id": 9
+  },
+  {
+    "title": "JORDAN AIR 7 RETRO",
+    "description": "ZAPATILLAS",
+    "price": 80.000,
+    "thumbnail": "JORDAN-AIR-7-RETRO.png",
+    "code": "kfejas",
+    "stock": 30,
+    "id": 10
+  }
+]
